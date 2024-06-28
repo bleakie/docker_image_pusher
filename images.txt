@@ -1,4 +1,4 @@
 #支持私库
-continuumio/miniconda3:latest
+cnstark/pytorch:2.0.1-py3.9.17-ubuntu20.04
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
